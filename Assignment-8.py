@@ -1,7 +1,3 @@
-# Program to read data from an input file,
-# count the number of lines, extract the first two lines,
-# and write the extracted data into a new file.
-
 # Ask the user for the input file path
 input_file = input("Enter the full path of the input text file: ").strip('"')
 
